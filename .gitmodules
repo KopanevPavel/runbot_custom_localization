@@ -1,3 +1,6 @@
 [submodule "backend/ORB_SLAM3"]
 	path = backend/ORB_SLAM3
 	url = https://github.com/KopanevPavel/ORB_SLAM3
+[submodule "backend/VINS-Fusion"]
+	path = backend/VINS-Fusion
+	url = https://github.com/KopanevPavel/VINS-Fusion
