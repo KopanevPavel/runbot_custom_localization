@@ -1,1 +1,0 @@
-/home/nuc/runbot/src/runbot/runbot_localization/backend/OpenVINS/devel/.private/ov_msckf/share/ov_msckf/cmake/ov_msckfConfig-version.cmake

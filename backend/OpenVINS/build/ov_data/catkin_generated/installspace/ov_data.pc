@@ -1,8 +1,0 @@
-prefix=/home/nuc/runbot/src/runbot/runbot_localization/backend/OpenVINS/install
-
-Name: ov_data
-Description: Description of ov_data
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

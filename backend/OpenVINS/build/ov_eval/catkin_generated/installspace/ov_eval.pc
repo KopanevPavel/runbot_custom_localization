@@ -1,8 +1,0 @@
-prefix=/home/nuc/runbot/src/runbot/runbot_localization/backend/OpenVINS/install
-
-Name: ov_eval
-Description: Description of ov_eval
-Version: 1.0.0
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib -lov_eval_lib
-Requires: roscpp rospy geometry_msgs nav_msgs sensor_msgs

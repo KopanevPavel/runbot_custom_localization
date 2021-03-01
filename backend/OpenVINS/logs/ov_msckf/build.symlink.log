@@ -1,9 +1,0 @@
-Symlinking /home/nuc/runbot/src/runbot/runbot_localization/backend/OpenVINS/devel/lib/libov_msckf_lib.so
-Symlinking /home/nuc/runbot/src/runbot/runbot_localization/backend/OpenVINS/devel/lib/ov_msckf/run_simulation
-Symlinking /home/nuc/runbot/src/runbot/runbot_localization/backend/OpenVINS/devel/lib/ov_msckf/run_serial_msckf
-Symlinking /home/nuc/runbot/src/runbot/runbot_localization/backend/OpenVINS/devel/lib/ov_msckf/run_subscribe_msckf
-Symlinking /home/nuc/runbot/src/runbot/runbot_localization/backend/OpenVINS/devel/lib/ov_msckf/test_sim_meas
-Symlinking /home/nuc/runbot/src/runbot/runbot_localization/backend/OpenVINS/devel/lib/ov_msckf/test_sim_repeat
-Symlinking /home/nuc/runbot/src/runbot/runbot_localization/backend/OpenVINS/devel/lib/pkgconfig/ov_msckf.pc
-Symlinking /home/nuc/runbot/src/runbot/runbot_localization/backend/OpenVINS/devel/share/ov_msckf/cmake/ov_msckfConfig.cmake
-Symlinking /home/nuc/runbot/src/runbot/runbot_localization/backend/OpenVINS/devel/share/ov_msckf/cmake/ov_msckfConfig-version.cmake

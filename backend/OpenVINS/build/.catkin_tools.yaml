@@ -1,6 +1,0 @@
-devel_space: /home/nuc/runbot/src/runbot/runbot_localization/backend/OpenVINS/devel
-install: false
-install_space: /home/nuc/runbot/src/runbot/runbot_localization/backend/OpenVINS/install
-profile: default
-source_space: /home/nuc/runbot/src/runbot/runbot_localization/backend/OpenVINS/src
-workspace: /home/nuc/runbot/src/runbot/runbot_localization/backend/OpenVINS

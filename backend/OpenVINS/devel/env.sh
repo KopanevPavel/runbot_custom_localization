@@ -1,1 +1,0 @@
-/home/nuc/runbot/src/runbot/runbot_localization/backend/OpenVINS/devel/.private/catkin_tools_prebuild/env.sh

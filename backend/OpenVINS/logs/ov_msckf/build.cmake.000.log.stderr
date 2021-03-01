@@ -1,8 +1,0 @@
-[33m[1mCMake Warning[0m at /home/nuc/runbot/src/runbot/runbot_localization/backend/OpenVINS/src/open_vins/ov_msckf/CMakeLists.txt:22 (message):
-  OPENCV VERSION: 3.2.0
-
-
-[33m[1mCMake Warning[0m at /home/nuc/runbot/src/runbot/runbot_localization/backend/OpenVINS/src/open_vins/ov_msckf/CMakeLists.txt:23 (message):
-  BOOST VERSION: 106501
-
-

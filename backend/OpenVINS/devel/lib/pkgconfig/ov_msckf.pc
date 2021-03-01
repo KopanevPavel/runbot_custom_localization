@@ -1,1 +1,0 @@
-/home/nuc/runbot/src/runbot/runbot_localization/backend/OpenVINS/devel/.private/ov_msckf/lib/pkgconfig/ov_msckf.pc
