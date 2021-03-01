@@ -1,0 +1,1 @@
+/home/nuc/runbot/src/runbot/runbot_localization/backend/OpenVINS/devel/.private/ov_data/lib/pkgconfig/ov_data.pc

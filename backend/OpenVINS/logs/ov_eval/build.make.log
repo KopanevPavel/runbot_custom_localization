@@ -1,0 +1,49 @@
+[35m[1mScanning dependencies of target ov_eval_lib[0m
+[  3%] [32mBuilding CXX object CMakeFiles/ov_eval_lib.dir/src/dummy.cpp.o[0m
+[  7%] [32mBuilding CXX object CMakeFiles/ov_eval_lib.dir/src/calc/ResultTrajectory.cpp.o[0m
+[ 11%] [32mBuilding CXX object CMakeFiles/ov_eval_lib.dir/src/calc/ResultSimulation.cpp.o[0m
+[ 14%] [32mBuilding CXX object CMakeFiles/ov_eval_lib.dir/src/alignment/AlignTrajectory.cpp.o[0m
+[ 18%] [32mBuilding CXX object CMakeFiles/ov_eval_lib.dir/src/utils/Loader.cpp.o[0m
+[ 22%] [32mBuilding CXX object CMakeFiles/ov_eval_lib.dir/src/alignment/AlignUtils.cpp.o[0m
+[ 25%] [32m[1mLinking CXX shared library /home/nuc/runbot/src/runbot/runbot_localization/backend/OpenVINS/devel/.private/ov_eval/lib/libov_eval_lib.so[0m
+[ 25%] Built target ov_eval_lib
+[35m[1mScanning dependencies of target timing_flamegraph[0m
+[35m[1mScanning dependencies of target error_singlerun[0m
+[35m[1mScanning dependencies of target error_simulation[0m
+[35m[1mScanning dependencies of target timing_comparison[0m
+[ 29%] [32mBuilding CXX object CMakeFiles/timing_comparison.dir/src/timing_comparison.cpp.o[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/error_singlerun.dir/src/error_singlerun.cpp.o[0m
+[ 37%] [32mBuilding CXX object CMakeFiles/error_simulation.dir/src/error_simulation.cpp.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/timing_flamegraph.dir/src/timing_flamegraph.cpp.o[0m
+[35m[1mScanning dependencies of target error_comparison[0m
+[ 44%] [32mBuilding CXX object CMakeFiles/error_comparison.dir/src/error_comparison.cpp.o[0m
+[35m[1mScanning dependencies of target format_converter[0m
+[35m[1mScanning dependencies of target pose_to_file[0m
+[ 48%] [32mBuilding CXX object CMakeFiles/format_converter.dir/src/format_converter.cpp.o[0m
+[ 51%] [32mBuilding CXX object CMakeFiles/pose_to_file.dir/src/pose_to_file.cpp.o[0m
+[ 55%] [32m[1mLinking CXX executable /home/nuc/runbot/src/runbot/runbot_localization/backend/OpenVINS/devel/.private/ov_eval/lib/ov_eval/timing_flamegraph[0m
+[ 55%] Built target timing_flamegraph
+[35m[1mScanning dependencies of target plot_trajectories[0m
+[ 59%] [32m[1mLinking CXX executable /home/nuc/runbot/src/runbot/runbot_localization/backend/OpenVINS/devel/.private/ov_eval/lib/ov_eval/timing_comparison[0m
+[ 62%] [32mBuilding CXX object CMakeFiles/plot_trajectories.dir/src/plot_trajectories.cpp.o[0m
+[ 62%] Built target timing_comparison
+[35m[1mScanning dependencies of target timing_percentages[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/timing_percentages.dir/src/timing_percentages.cpp.o[0m
+[ 70%] [32m[1mLinking CXX executable /home/nuc/runbot/src/runbot/runbot_localization/backend/OpenVINS/devel/.private/ov_eval/lib/ov_eval/error_simulation[0m
+[ 74%] [32m[1mLinking CXX executable /home/nuc/runbot/src/runbot/runbot_localization/backend/OpenVINS/devel/.private/ov_eval/lib/ov_eval/format_converter[0m
+[ 74%] Built target error_simulation
+[35m[1mScanning dependencies of target error_dataset[0m
+[ 74%] Built target format_converter
+[ 77%] [32mBuilding CXX object CMakeFiles/error_dataset.dir/src/error_dataset.cpp.o[0m
+[ 81%] [32m[1mLinking CXX executable /home/nuc/runbot/src/runbot/runbot_localization/backend/OpenVINS/devel/.private/ov_eval/lib/ov_eval/error_singlerun[0m
+[ 81%] Built target error_singlerun
+[ 85%] [32m[1mLinking CXX executable /home/nuc/runbot/src/runbot/runbot_localization/backend/OpenVINS/devel/.private/ov_eval/lib/ov_eval/pose_to_file[0m
+[ 85%] Built target pose_to_file
+[ 88%] [32m[1mLinking CXX executable /home/nuc/runbot/src/runbot/runbot_localization/backend/OpenVINS/devel/.private/ov_eval/lib/ov_eval/timing_percentages[0m
+[ 88%] Built target timing_percentages
+[ 92%] [32m[1mLinking CXX executable /home/nuc/runbot/src/runbot/runbot_localization/backend/OpenVINS/devel/.private/ov_eval/lib/ov_eval/error_comparison[0m
+[ 92%] Built target error_comparison
+[ 96%] [32m[1mLinking CXX executable /home/nuc/runbot/src/runbot/runbot_localization/backend/OpenVINS/devel/.private/ov_eval/lib/ov_eval/plot_trajectories[0m
+[ 96%] Built target plot_trajectories
+[100%] [32m[1mLinking CXX executable /home/nuc/runbot/src/runbot/runbot_localization/backend/OpenVINS/devel/.private/ov_eval/lib/ov_eval/error_dataset[0m
+[100%] Built target error_dataset

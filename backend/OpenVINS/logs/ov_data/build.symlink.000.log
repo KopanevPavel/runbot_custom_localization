@@ -1,0 +1,3 @@
+Symlinking /home/nuc/runbot/src/runbot/runbot_localization/backend/OpenVINS/devel/lib/pkgconfig/ov_data.pc
+Symlinking /home/nuc/runbot/src/runbot/runbot_localization/backend/OpenVINS/devel/share/ov_data/cmake/ov_dataConfig.cmake
+Symlinking /home/nuc/runbot/src/runbot/runbot_localization/backend/OpenVINS/devel/share/ov_data/cmake/ov_dataConfig-version.cmake

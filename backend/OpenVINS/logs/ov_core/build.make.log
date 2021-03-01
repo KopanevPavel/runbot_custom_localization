@@ -1,0 +1,22 @@
+[35m[1mScanning dependencies of target ov_core_lib[0m
+[  6%] [32mBuilding CXX object CMakeFiles/ov_core_lib.dir/src/init/InertialInitializer.cpp.o[0m
+[ 12%] [32mBuilding CXX object CMakeFiles/ov_core_lib.dir/src/dummy.cpp.o[0m
+[ 18%] [32mBuilding CXX object CMakeFiles/ov_core_lib.dir/src/sim/BsplineSE3.cpp.o[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/ov_core_lib.dir/src/track/TrackBase.cpp.o[0m
+[ 31%] [32mBuilding CXX object CMakeFiles/ov_core_lib.dir/src/track/TrackAruco.cpp.o[0m
+[ 37%] [32mBuilding CXX object CMakeFiles/ov_core_lib.dir/src/track/TrackDescriptor.cpp.o[0m
+[ 43%] [32mBuilding CXX object CMakeFiles/ov_core_lib.dir/src/track/TrackKLT.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/ov_core_lib.dir/src/track/TrackSIM.cpp.o[0m
+[ 56%] [32mBuilding CXX object CMakeFiles/ov_core_lib.dir/src/types/Landmark.cpp.o[0m
+[ 62%] [32mBuilding CXX object CMakeFiles/ov_core_lib.dir/src/feat/Feature.cpp.o[0m
+[ 68%] [32mBuilding CXX object CMakeFiles/ov_core_lib.dir/src/feat/FeatureInitializer.cpp.o[0m
+[ 75%] [32m[1mLinking CXX shared library /home/nuc/runbot/src/runbot/runbot_localization/backend/OpenVINS/devel/.private/ov_core/lib/libov_core_lib.so[0m
+[ 75%] Built target ov_core_lib
+[35m[1mScanning dependencies of target test_webcam[0m
+[35m[1mScanning dependencies of target test_tracking[0m
+[ 81%] [32mBuilding CXX object CMakeFiles/test_webcam.dir/src/test_webcam.cpp.o[0m
+[ 87%] [32mBuilding CXX object CMakeFiles/test_tracking.dir/src/test_tracking.cpp.o[0m
+[ 93%] [32m[1mLinking CXX executable /home/nuc/runbot/src/runbot/runbot_localization/backend/OpenVINS/devel/.private/ov_core/lib/ov_core/test_tracking[0m
+[ 93%] Built target test_tracking
+[100%] [32m[1mLinking CXX executable /home/nuc/runbot/src/runbot/runbot_localization/backend/OpenVINS/devel/.private/ov_core/lib/ov_core/test_webcam[0m
+[100%] Built target test_webcam

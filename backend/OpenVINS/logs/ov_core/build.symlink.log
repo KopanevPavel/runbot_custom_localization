@@ -1,0 +1,6 @@
+Symlinking /home/nuc/runbot/src/runbot/runbot_localization/backend/OpenVINS/devel/lib/libov_core_lib.so
+Symlinking /home/nuc/runbot/src/runbot/runbot_localization/backend/OpenVINS/devel/lib/pkgconfig/ov_core.pc
+Symlinking /home/nuc/runbot/src/runbot/runbot_localization/backend/OpenVINS/devel/lib/ov_core/test_webcam
+Symlinking /home/nuc/runbot/src/runbot/runbot_localization/backend/OpenVINS/devel/lib/ov_core/test_tracking
+Symlinking /home/nuc/runbot/src/runbot/runbot_localization/backend/OpenVINS/devel/share/ov_core/cmake/ov_coreConfig-version.cmake
+Symlinking /home/nuc/runbot/src/runbot/runbot_localization/backend/OpenVINS/devel/share/ov_core/cmake/ov_coreConfig.cmake

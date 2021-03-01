@@ -1,0 +1,8 @@
+prefix=/home/nuc/runbot/src/runbot/runbot_localization/backend/OpenVINS/install
+
+Name: ov_msckf
+Description: Description of ov_msckf
+Version: 1.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lov_msckf_lib
+Requires: roscpp rosbag tf std_msgs geometry_msgs sensor_msgs nav_msgs visualization_msgs cv_bridge ov_core

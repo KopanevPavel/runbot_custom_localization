@@ -1,0 +1,1 @@
+/home/nuc/runbot/src/runbot/runbot_localization/backend/OpenVINS/devel/.private/ov_core/share/ov_core/cmake/ov_coreConfig-version.cmake
