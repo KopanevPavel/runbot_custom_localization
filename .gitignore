@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+/backend/OpenVINS/
+/backend/ORB_SLAM2/
+/backend/OpenVSLAM/
