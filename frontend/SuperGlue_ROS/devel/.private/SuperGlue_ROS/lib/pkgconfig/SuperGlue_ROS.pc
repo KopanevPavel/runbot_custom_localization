@@ -1,0 +1,8 @@
+prefix=/home/jetson/SLAM/runbot_custom_localization/frontend/SuperGlue_ROS/devel/.private/SuperGlue_ROS
+
+Name: SuperGlue_ROS
+Description: Description of SuperGlue_ROS
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

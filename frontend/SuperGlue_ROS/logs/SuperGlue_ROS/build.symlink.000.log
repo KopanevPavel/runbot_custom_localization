@@ -1,0 +1,3 @@
+Symlinking /home/jetson/SLAM/runbot_custom_localization/frontend/SuperGlue_ROS/devel/lib/pkgconfig/SuperGlue_ROS.pc
+Symlinking /home/jetson/SLAM/runbot_custom_localization/frontend/SuperGlue_ROS/devel/share/SuperGlue_ROS/cmake/SuperGlue_ROSConfig.cmake
+Symlinking /home/jetson/SLAM/runbot_custom_localization/frontend/SuperGlue_ROS/devel/share/SuperGlue_ROS/cmake/SuperGlue_ROSConfig-version.cmake

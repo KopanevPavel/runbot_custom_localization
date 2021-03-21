@@ -1,0 +1,6 @@
+devel_space: /home/jetson/SLAM/runbot_custom_localization/frontend/SuperGlue_ROS/devel
+install: false
+install_space: /home/jetson/SLAM/runbot_custom_localization/frontend/SuperGlue_ROS/install
+profile: default
+source_space: /home/jetson/SLAM/runbot_custom_localization/frontend/SuperGlue_ROS/src
+workspace: /home/jetson/SLAM/runbot_custom_localization/frontend/SuperGlue_ROS

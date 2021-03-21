@@ -1,0 +1,1 @@
+/home/jetson/SLAM/runbot_custom_localization/frontend/SuperGlue_ROS/devel/.private/SuperGlue_ROS/lib/pkgconfig/SuperGlue_ROS.pc
