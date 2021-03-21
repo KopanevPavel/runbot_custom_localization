@@ -1,2 +1,0 @@
-- setup-file:
-    local-name: /home/jetson/SLAM/runbot_custom_localization/frontend/SuperGlue_ROS/devel/.private/SuperGlue_ROS/setup.sh
