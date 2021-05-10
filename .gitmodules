@@ -1,12 +1,16 @@
+[submodule "backend/VINS-Fusion-Enhanced/src/cerebro"]
+	path = backend/VINS-Fusion-Enhanced/src/cerebro
+	url = https://github.com/mpkuse/cerebro
+[submodule "backend/VINS-Fusion-Enhanced/src/VINS-Fusion"]
+	path = backend/VINS-Fusion-Enhanced/src/VINS-Fusion
+	url = https://github.com/KopanevPavel/VINS-Fusion
 [submodule "backend/ORB_SLAM3"]
 	path = backend/ORB_SLAM3
 	url = https://github.com/KopanevPavel/ORB_SLAM3
-[submodule "backend/VINS-Fusion"]
-	path = backend/VINS-Fusion
-	url = https://github.com/KopanevPavel/VINS-Fusion
 [submodule "frontend/SuperGluePretrainedNetwork"]
 	path = frontend/SuperGluePretrainedNetwork
 	url = https://github.com/KopanevPavel/SuperGluePretrainedNetwork
 [submodule "frontend/SuperGlue_ROS/src/SuperGlue_ROS"]
 	path = frontend/SuperGlue_ROS/src/SuperGlue_ROS
 	url = https://github.com/KopanevPavel/SuperGlue_ROS
+
