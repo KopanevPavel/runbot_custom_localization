@@ -1,0 +1,13 @@
+version: "3.4"
+services:
+  vins-fusion:
+    image: ros:vins-fusion
+    volumes:
+      - /home/nuc/runbot/src/runbot/runbot_localization/backend/VINS-Fusion-Enhanced/src/:/root/catkin_ws/src/
+    network_mode: host
+    command: tail -F anything
+
+  tensorflow-keras:
+    image: visheshgargavi/keras-tensorflow-dia
+    network_mode: host
+    command: tail -F anything

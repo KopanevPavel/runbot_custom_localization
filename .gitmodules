@@ -1,9 +1,9 @@
-[submodule "backend/ORB_SLAM3"]
-	path = backend/ORB_SLAM3
-	url = https://github.com/KopanevPavel/ORB_SLAM3
 [submodule "backend/VINS-Fusion-Enhanced/src/cerebro"]
 	path = backend/VINS-Fusion-Enhanced/src/cerebro
 	url = https://github.com/mpkuse/cerebro
 [submodule "backend/VINS-Fusion-Enhanced/src/VINS-Fusion"]
 	path = backend/VINS-Fusion-Enhanced/src/VINS-Fusion
 	url = https://github.com/KopanevPavel/VINS-Fusion
+[submodule "backend/ORB_SLAM3"]
+	path = backend/ORB_SLAM3
+	url = https://github.com/UZ-SLAMLab/ORB_SLAM3
