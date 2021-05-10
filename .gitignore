@@ -35,3 +35,8 @@
 /backend/ORB_SLAM2/
 /backend/OpenVSLAM/
 /backend/VINS-Mono/
+
+/frontend/SuperGlue_ROS/build/
+/frontend/SuperGlue_ROS/devel/
+/frontend/SuperGlue_ROS/logs/
+
